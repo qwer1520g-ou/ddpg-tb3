@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/a720a/catkin_ws_ddpg/src/project/src/model/critic/-14560"
+all_model_checkpoint_paths: "/home/a720a/catkin_ws_ddpg/src/project/src/model/critic/-14520"
+all_model_checkpoint_paths: "/home/a720a/catkin_ws_ddpg/src/project/src/model/critic/-14530"
+all_model_checkpoint_paths: "/home/a720a/catkin_ws_ddpg/src/project/src/model/critic/-14540"
+all_model_checkpoint_paths: "/home/a720a/catkin_ws_ddpg/src/project/src/model/critic/-14550"
+all_model_checkpoint_paths: "/home/a720a/catkin_ws_ddpg/src/project/src/model/critic/-14560"
